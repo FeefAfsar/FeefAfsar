@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Afif Afsaruddin, as known as Ruddy, a 18 years old backend developer from Indonesia.
+I'm Afif Afsaruddin, as known as Afif or Ruddy, a 18 years old backend developer from Indonesia.
 
 - 👨‍🎓 Student of [Telkom University](https://telkomuniversity.ac.id/) Bachelor of [Information System](https://bis.telkomuniversity.ac.id/)
 - 🖊️ Internship Step in [ASE Laboratory](https://www.instagram.com/rplgdc_/)
