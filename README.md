@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Afif Afsaruddin/Afif Afsaruddin/master/name.svg" alt="Afif Afsaruddin" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXl4MmNjb283emQ4cW5rdWZ0MGgyamRvdW55aGdhMm0wZ3NzbGo3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lxxOGaDRk4f7R5TkBd/giphy.gif" alt="Afif Afsaruddin" />
 </h1>
 
 ## Hi there 👋
