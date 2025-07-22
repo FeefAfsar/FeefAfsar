@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Pictures" alt="Afif Afsaruddin" />
+  <alt="Afif Afsaruddin" />
 </h1>
 
 ## Hi there 👋
