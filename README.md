@@ -1,16 +1,19 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Afif Afsaruddin" />
+</h1>
+
 ## Hi there 👋
+I'm Ruddy, a 18 years old backend developer from Indonesia.
 
-<!--
-**FeefAfsar/FeefAfsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 Student of [Telkom University](https://telkomuniversity.ac.id/) Bachelor of [Information System](https://bis.telkomuniversity.ac.id/)
+- 🖊️ Internship Step in [ASE Laboratory](https://www.instagram.com/rplgdc_/)
+- 🖊️ StudyGroup Step in [EISD Laboratory](https://www.instagram.com/peopleateisd/)
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 C#, Java
+- 💽 MySQL
++ a lot more :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [@afsr.dinn_](https://www.instagram.com/afsr.dinn_/) on Instagram
+- [@ffe.eff](https://www.tiktok.com/@ffe.eff?is_from_webapp=1&sender_device=pc) on TikTok
