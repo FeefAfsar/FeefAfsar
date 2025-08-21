@@ -16,7 +16,7 @@
 - 💽 MySQL
 + a lot more, maybe:D
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZpNGdrd2hieGF3bWVhMmhocXp2a2xwOHlwZ3F3bnE0YWY3aXh0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EH710AfxjA45j1eios/giphy.gif" width="40"> My Skills
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZpNGdrd2hieGF3bWVhMmhocXp2a2xwOHlwZ3F3bnE0YWY3aXh0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EH710AfxjA45j1eios/giphy.gif" width="40"> Follow Mee!
 - [@afsr.dinn_](https://www.instagram.com/afsr.dinn_/) on Instagram
 - [@ffe.eff](https://www.tiktok.com/@ffe.eff?is_from_webapp=1&sender_device=pc) on TikTok
 
